@@ -7,3 +7,5 @@ This is a list of topics I covered or willing to cover while Im reading about da
 4. [Machine Laerning::Text Feature Extraction (tf-idf) - Part II](http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/)
 5. [Machine Learning :: Cosine Similarity for Vector Space Models (Part III)](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 6. [Khan Academy - Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)
+
+To be continued
