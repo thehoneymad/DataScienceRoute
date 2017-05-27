@@ -8,6 +8,7 @@ This is a list of topics I covered or willing to cover while Im reading about da
 5. [Machine Learning :: Cosine Similarity for Vector Space Models (Part III)](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 6. [Khan Academy - Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)
 7. [Coursera - Collaborative Filtering](https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering)
-8/ [Udemy - Covariance and Correlation](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/t/lecture/4020118?start=0)
+8. [Udemy - Covariance and Correlation](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/t/lecture/4020118?start=0)
+9. [Manash's Blog - Maximum Likelihood](https://blog.manash.me/machine-learning-1-maximum-likelihood-estimation-part-1-9ad37d6ac425)
 
 To be continued
