@@ -10,5 +10,6 @@ This is a list of topics I covered or willing to cover while Im reading about da
 7. [Coursera - Collaborative Filtering](https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering)
 8. [Udemy - Covariance and Correlation](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/t/lecture/4020118?start=0)
 9. [Manash's Blog - Maximum Likelihood](https://blog.manash.me/machine-learning-1-maximum-likelihood-estimation-part-1-9ad37d6ac425)
+10.[Multiple Regression, youtube](https://www.youtube.com/watch?v=dQNpSa-bq4M)
 
 To be continued
