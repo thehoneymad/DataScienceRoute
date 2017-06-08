@@ -10,7 +10,9 @@ This is a list of topics I covered or willing to cover while Im reading about da
 7. [Coursera - Collaborative Filtering](https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering)
 8. [Udemy - Covariance and Correlation](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/t/lecture/4020118?start=0)
 9. [Manash's Blog - Maximum Likelihood](https://blog.manash.me/machine-learning-1-maximum-likelihood-estimation-part-1-9ad37d6ac425)
-10.[Multiple Regression, youtube](https://www.youtube.com/watch?v=dQNpSa-bq4M)
-11.[Calculus Refresher](http://www.stat.wisc.edu/~ifischer/calculus.pdf)
+10. [Multiple Regression, youtube](https://www.youtube.com/watch?v=dQNpSa-bq4M)
+11. [Calculus Refresher](http://www.stat.wisc.edu/~ifischer/calculus.pdf)
+12. [Logarithm Refresher](https://ceps.unh.edu/sites/ceps.unh.edu/files/departments/mathematics_statistics/the_power_in_numbers.pdf)
+13. [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 To be continued
