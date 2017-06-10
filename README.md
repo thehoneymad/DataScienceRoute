@@ -14,5 +14,6 @@ This is a list of topics I covered or willing to cover while Im reading about da
 11. [Calculus Refresher](http://www.stat.wisc.edu/~ifischer/calculus.pdf)
 12. [Logarithm Refresher](https://ceps.unh.edu/sites/ceps.unh.edu/files/departments/mathematics_statistics/the_power_in_numbers.pdf)
 13. [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+14. [Matrix Calculus Introduction](http://w3.uacg.bg/UACEG_site/acadstaff/userfiles/study_bg_162_Matrix_PDF_Engl.pdf)
 
 To be continued
