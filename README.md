@@ -16,5 +16,6 @@ This is a list of topics I covered or willing to cover while Im reading about da
 13. [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 14. [Matrix Calculus Introduction](http://w3.uacg.bg/UACEG_site/acadstaff/userfiles/study_bg_162_Matrix_PDF_Engl.pdf)
 15. [Working with text data](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+16. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
 To be continued
