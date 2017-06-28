@@ -19,5 +19,6 @@ This is a list of topics I covered or willing to cover while Im reading about da
 16. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 17. [Reinforcement Learning - Markov decision process toolbox](http://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html)
 18. [Pacman Example for Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html)
+19. [Deep Learning Book From Ian Goodfellow](http://www.deeplearningbook.org/)
 
 To be continued
