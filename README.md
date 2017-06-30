@@ -20,5 +20,7 @@ This is a list of topics I covered or willing to cover while Im reading about da
 17. [Reinforcement Learning - Markov decision process toolbox](http://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html)
 18. [Pacman Example for Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html)
 19. [Deep Learning Book From Ian Goodfellow](http://www.deeplearningbook.org/)
+20. [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+21. [Multi-Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 To be continued
