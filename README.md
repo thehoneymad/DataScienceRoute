@@ -12,6 +12,13 @@ This is a list of topics I covered or willing to cover while Im reading about da
 7. [Calculus Refresher](http://www.stat.wisc.edu/~ifischer/calculus.pdf)
 8. [Matrix Calculus Introduction](http://w3.uacg.bg/UACEG_site/acadstaff/userfiles/study_bg_162_Matrix_PDF_Engl.pdf)
 9. [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+10. [Manash's Blog - Maximum Likelihood](https://blog.manash.me/machine-learning-1-maximum-likelihood-estimation-part-1-9ad37d6ac425)
+11. [Simple Linear Regression, youtube](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
+12. [Multiple Regression, youtube](https://www.youtube.com/watch?v=dQNpSa-bq4M)
+12. [Logistics Regression, youtube](https://www.youtube.com/watch?v=zAULhNrnuL4)
+13. [Coursera Machine Learning Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
+14. [Coursera Machine Learning Week 2](https://www.coursera.org/learn/machine-learning/home/week/2)
+15. [Coursera Machine Learning Week 3](https://www.coursera.org/learn/machine-learning/home/week/3)
 
 
 ## Still unordered
