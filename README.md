@@ -28,12 +28,10 @@ This is a list of topics I covered or willing to cover while Im reading about da
 4. [Machine Laerning::Text Feature Extraction (tf-idf) - Part II](http://blog.christianperone.com/2011/10/machine-learning-text-feature-extraction-tf-idf-part-ii/)
 5. [Machine Learning :: Cosine Similarity for Vector Space Models (Part III)](http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 6. [Coursera - Collaborative Filtering](https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering)
-7. [Udemy - Covariance and Correlation](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/t/lecture/4020118?start=0)
-8. [Manash's Blog - Maximum Likelihood](https://blog.manash.me/machine-learning-1-maximum-likelihood-estimation-part-1-9ad37d6ac425)
-9. [Multiple Regression, youtube](https://www.youtube.com/watch?v=dQNpSa-bq4M)
-10. [Working with text data](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
-11. [Reinforcement Learning - Markov decision process toolbox](http://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html)
-12. [Pacman Example for Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html)
-13. [Deep Learning Book From Ian Goodfellow](http://www.deeplearningbook.org/)
+7. [Udemy - Covariance and Correlation](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/t/lecture/4020118?start=0) 
+8. [Working with text data](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+9. [Reinforcement Learning - Markov decision process toolbox](http://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html)
+10. [Pacman Example for Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html)
+11. [Deep Learning Book From Ian Goodfellow](http://www.deeplearningbook.org/)
 
 To be continued
