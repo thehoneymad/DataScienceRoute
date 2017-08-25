@@ -16,9 +16,7 @@ This is a list of topics I covered or willing to cover while Im reading about da
 11. [Simple Linear Regression, youtube](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
 12. [Multiple Regression, youtube](https://www.youtube.com/watch?v=dQNpSa-bq4M)
 12. [Logistics Regression, youtube](https://www.youtube.com/watch?v=zAULhNrnuL4)
-13. [Coursera Machine Learning Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
-14. [Coursera Machine Learning Week 2](https://www.coursera.org/learn/machine-learning/home/week/2)
-15. [Coursera Machine Learning Week 3](https://www.coursera.org/learn/machine-learning/home/week/3)
+13. [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/home)
 
 
 ## Still unordered
@@ -33,5 +31,6 @@ This is a list of topics I covered or willing to cover while Im reading about da
 9. [Reinforcement Learning - Markov decision process toolbox](http://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html)
 10. [Pacman Example for Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html)
 11. [Deep Learning Book From Ian Goodfellow](http://www.deeplearningbook.org/)
+12. [Logistic Regression](https://ml.manash.me/logistic_regression/logistic_regression_intuition.html)
 
 To be continued
