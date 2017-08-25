@@ -31,6 +31,6 @@ This is a list of topics I covered or willing to cover while Im reading about da
 9. [Reinforcement Learning - Markov decision process toolbox](http://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html)
 10. [Pacman Example for Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html)
 11. [Deep Learning Book From Ian Goodfellow](http://www.deeplearningbook.org/)
-12. [Logistic Regression](https://ml.manash.me/logistic_regression/logistic_regression_intuition.html)
+12. [Manash's blog - Logistic Regression](https://ml.manash.me/logistic_regression/logistic_regression_intuition.html)
 
 To be continued
